@@ -32,7 +32,7 @@ Summary
 
 Link to the Contract: https://rinkeby.etherscan.io/address/0xc9E2eC167dC4bb5DC1F2A51b87255ba6D5B4f710
 
-## UML Diagrans
+## UML Diagrams
 This project contains a series of UML diagrams that can be found in Project-6 folder under "images"
 
 ## Description:
