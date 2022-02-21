@@ -1,4 +1,27 @@
-# Supply chain & data auditing
+# Blockchain Supply Chain Solution - Coffee
+
+## Rinkeby Transaction and Contract Address
+
+```
+   Deploying 'SupplyChain'
+   -----------------------
+   > transaction hash:    0xa95e68a29fa3e7deb91317f346e0449e2a36cd7f3fe912e72d234a212971d74b
+   > Blocks: 1            Seconds: 12
+   > contract address:    0x95dABfBd2D67D8E11e28e9e7728f75BaE159a334
+   > block number:        5683764
+   > block timestamp:     1577395787
+   > account:             0x4ACF5e91813f31aDF278FF22921a210972aBcCc3
+   > balance:             4.95651555
+   > gas used:            3785474
+   > gas price:           10 gwei
+   > value sent:          0 ETH
+   > total cost:          0.03785474 ETH
+
+```
+
+Link to the Contract:
+
+## Description:
 
 This repository containts an Ethereum DApp that demonstrates a Supply Chain flow between a Seller and Buyer. The user story is similar to any commonly used supply chain process. A Seller can add items to the inventory system stored in the blockchain. A Buyer can purchase such items from the inventory system. Additionally a Seller can mark an item as Shipped, and similarly a Buyer can mark an item as Received.
 
