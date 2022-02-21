@@ -2,28 +2,42 @@
 
 ## Rinkeby Transaction and Contract Address
 
-```
-   Deploying 'SupplyChain'
+```Deploying 'SupplyChain'
    -----------------------
-   > transaction hash:    0xa95e68a29fa3e7deb91317f346e0449e2a36cd7f3fe912e72d234a212971d74b
+   > transaction hash:    0xaf2ae87442580a0040a04905c26836a34c7be80e95a1354f7f1c8d91ef4fc7e2
    > Blocks: 1            Seconds: 12
-   > contract address:    0x95dABfBd2D67D8E11e28e9e7728f75BaE159a334
-   > block number:        5683764
-   > block timestamp:     1577395787
-   > account:             0x4ACF5e91813f31aDF278FF22921a210972aBcCc3
-   > balance:             4.95651555
-   > gas used:            3785474
-   > gas price:           10 gwei
+   > contract address:    0xc9E2eC167dC4bb5DC1F2A51b87255ba6D5B4f710
+   > block number:        10207684
+   > block timestamp:     1645461050
+   > account:             0xFF985509Aa523FE9cd3d0A6891fCB9f2A4134feE
+   > balance:             0.290360789407223787
+   > gas used:            2688573 (0x29063d)
+   > gas price:           1.000000017 gwei
    > value sent:          0 ETH
-   > total cost:          0.03785474 ETH
+   > total cost:          0.002688573045705741 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:     0.004091969068529708 ETH
+
+
+Summary
+=======
+> Total deployments:   6
+> Final cost:          0.004366489073196548 ETH
 
 ```
 
-Link to the Contract:
+Link to the Contract: https://rinkeby.etherscan.io/address/0xc9E2eC167dC4bb5DC1F2A51b87255ba6D5B4f710
+
+## UML Diagrans
+This project contains a series of UML diagrams that can be found in Project-6 folder under "images"
 
 ## Description:
 
-This repository containts an Ethereum DApp that demonstrates a Supply Chain flow between a Seller and Buyer. The user story is similar to any commonly used supply chain process. A Seller can add items to the inventory system stored in the blockchain. A Buyer can purchase such items from the inventory system. Additionally a Seller can mark an item as Shipped, and similarly a Buyer can mark an item as Received.
+This repository contains an Ethereum DApp that demonstrates a Supply Chain flow between a Seller and Buyer. The user story is similar to any commonly used supply chain process. A Seller can add items to the inventory system stored in the blockchain. A Buyer can purchase such items from the inventory system. Additionally a Seller can mark an item as Shipped, and similarly a Buyer can mark an item as Received.
 
 The DApp User Interface when running should look like...
 
